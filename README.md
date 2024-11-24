@@ -1,0 +1,1 @@
+This is a simple RAG-based project that helps customers answer their queries related to insurance policies. Customers can ask questions, and this system will provide the top three recommended answers to their queries.
